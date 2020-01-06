@@ -1,0 +1,4 @@
+jwt
+uuid
+flask
+flask_sqlalchemy
